@@ -7,4 +7,4 @@ I hope to learn how to create clean and thought-provoking visualizations that co
 Data can effect real and meaningful change in the world, and for the better. The caveat with data-driven change is that the people operationalizing data don't read data files the same ways computers to do. We need storytellers to act as an intermediary - to visualize problems, models, predictions, and solutions. I hope to develop the skills needed to begin telling those stories. 
 
 # Portfolio-
-Click here to read, or see, some of these stories!
+Click here to view my first attempts at storytelling with data!
