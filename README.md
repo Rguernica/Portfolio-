@@ -9,7 +9,8 @@ Data can effect real and meaningful change in the world, and for the better. The
 # Portfolio-
 See below to view my first attempts at storytelling with data!
 ## [Workbook Sketches](workbook_RosanaGuernica.md)
-## [Visualization Critiques and Redesigns](critiques_redesigns_Rosana.md)
+## [Critiques and Redesigns](critiques_redesigns_Rosana.md)
 ## [Final Project](final_project_RosanaGuernica.md) 
-## [Inspiration](inspiration.md)
 ## [Resources](resources_Heinz_Goranson.md)
+
+# Inspiration Board 
