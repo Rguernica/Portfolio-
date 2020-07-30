@@ -35,18 +35,20 @@ I'll be using the dataset to analyze and visualize the following
 ## Intial Sketches and Wireframes
 - Storyboard
 
-<a href="https://ibb.co/5sP5qYb"><img src="https://i.ibb.co/h2SKpX3/Storyboard.jpg" alt="Storyboard" border="0"></a>
+≈
 
-- Sketches
+- Sketches - these are sample sketches of what visualizations will be included in the dashboard. 
 
 <a href="https://ibb.co/DPFQ6xB"><img src="https://i.ibb.co/WNXfdbr/IMG-2742.jpg" alt="IMG-2742" border="0"></a>
 <a href="https://ibb.co/MZ5BjZM"><img src="https://i.ibb.co/VJpwhJ2/IMG-2744.jpg" alt="IMG-2744" border="0"></a>
 <a href="https://ibb.co/0J0WY2c"><img src="https://i.ibb.co/yszMgPX/IMG-2745.jpg" alt="IMG-2745" border="0"></a>
 <a href="https://ibb.co/9vg0QqN"><img src="https://i.ibb.co/rt0hDZm/IMG-2743.jpg" alt="IMG-2743" border="0"></a>
 
-## Research and Interviews 
+## User Persona Storyboard
 
-### Research Protocol 
+<a href="https://ibb.co/9vg0QqN"><img src="https://i.ibb.co/rt0hDZm/IMG-2743.jpg" alt="IMG-2743" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>1 to 9 dice</a><br />
+
+### Research and Interviews
 - Target audience: 
 - Goals and Questions:
 - Metrics:
