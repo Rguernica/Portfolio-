@@ -62,9 +62,11 @@ I'll be using the dataset to analyze and visualize the following
     - Perception/Aesthetics -> Do you find the visualizations appealing?
     
 - Methods: Remotely conducted 3 seperate 10-minute interviews and recorded notes on a word processor. 
-- Script: 
+- Script:
+
 Interview 1 
-  Q: How much time did it take you to understand what the visualizations were communicating?
+  
+  	Q: How much time did it take you to understand what the visualizations were communicating?
 	A: None. But I look at data like that a lot for work, so may not be the average person?
 	Q: Is there information missing that you wish you saw?
 	A: Looks like the first two are by zip code or parts of a city- I would love that for the second two as well.
