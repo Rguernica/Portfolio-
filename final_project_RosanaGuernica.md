@@ -1,10 +1,10 @@
-# Data-Driven Police Reform and Decision-Making
-# Final Project - Part I
+# Data-Driven Decision-Making in Police Departments
+## Final Project - Part I
                                                                                                         
 
 ## Introduction and Outline
 
-For my final project I will be showing how data plays a crucial role in police management and reform. Specifically, I'll show what insights supervisors and city councils can gather from a police departments call for service data, and how decision makers may use these insights in police reform efforts. 
+For my final project I will be showing how data plays a crucial role in police management and oversight. Specifically, I'll show what insights supervisors and city councils can gather from a police departments call for service data, and how decision makers may use these insights in police reform efforts. 
 
 Story Arc: 
 
