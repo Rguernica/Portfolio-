@@ -33,7 +33,7 @@ I'll be using the dataset to analyze and visualize the following
 
 
 ## Intial Sketches and Wireframes
-- Storyboard:
+- Storyboard
 
 <a href="https://ibb.co/5sP5qYb"><img src="https://i.ibb.co/h2SKpX3/Storyboard.jpg" alt="Storyboard" border="0"></a>
 
