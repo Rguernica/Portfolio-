@@ -12,7 +12,10 @@ I'll demonstrate some of these insights on shorthand, using an embedded dashboar
 
 ## The Data 
 
-This project uses the Cincinnati Police Department's Call for Service dataset. This dataset is updated daily and is publicly accessible. It can be acccessed on the [Cincinnati's Police Data Initiatve webpage](https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Police-Calls-for-Servic/gexm-h6bt). 
+This project uses the Cincinnati Police Department's Call for Service dataset. The department's CFS data is captured by the City of Cincinnati's Computer Aided Dispatch (CAD) system. This system records all calls for service and their dispatch information. Officers who answer a call update the system to reflect on-scene findings. 
+
+This dataset is updated daily and is publicly accessible. It can be acccessed on the [Cincinnati's Police Data Initiatve webpage](https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Police-Calls-for-Servic/gexm-h6bt). In compliance with privacy laws, the dataset has been anonymized and redacted. 
+
 
 I'll be using the dataset to analyze and visualize the following 
 
@@ -34,5 +37,13 @@ I'll be using the dataset to analyze and visualize the following
 ## Research and Interviews 
 
 ### Research Protocol 
+- Target audience: 
+- Goals and Questions:
+- Metrics:
+- Methods: Remotely conducted 3 seperate 15-minute interviews and recorded notes on a word processor. 
+- Script: 
+  - Interview 1: 
+  - Interview 2: 
+  - Interview 3: 
 
-## Moodboards and Personas 
+
