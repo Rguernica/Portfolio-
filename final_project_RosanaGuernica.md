@@ -45,7 +45,7 @@ I'll be using the dataset to analyze and visualize the following
 
 ## User Persona Storyboard
 
-<a href="https://ibb.co/9vg0QqN"><img src="https://i.ibb.co/rt0hDZm/IMG-2743.jpg" alt="IMG-2743" border="0"></a>
+<a href="https://ibb.co/5sP5qYb"><img src="https://i.ibb.co/h2SKpX3/Storyboard.jpg" alt="Storyboard" border="0"></a>
 
 ### Research and Interviews
 - Target audience: 
