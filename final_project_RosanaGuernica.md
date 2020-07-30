@@ -1,5 +1,5 @@
-# Data-Driven Decision-Making in Police Departments
-## Final Project - Part I
+# Visualizing Police Activity 
+Final Project - Part I
                                                                                                         
 
 ## Introduction 
@@ -54,7 +54,7 @@ I'll be using the dataset to analyze and visualize the following
 <a href="https://ibb.co/5sP5qYb"><img src="https://i.ibb.co/h2SKpX3/Storyboard.jpg" alt="Storyboard" border="0"></a>
 
 ### Research and Interviews
-- Target audience: Average civilian concerned about police reform. I approached three individuals who have a diverse set of occupational backgrounds and skills: a social worker, a film editor, and a computer scientist. 
+- Target audience: Average civilian concerned about police reform. I approached three individuals who have a diverse set of occupational backgrounds and skills: a social worker, a film editor, and a data scientist. 
 
 - Goals and Questions: 
     - Intuitiveness -> How much time does it take to understand what the visualizations are communicating?
