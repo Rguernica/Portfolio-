@@ -63,8 +63,32 @@ I'll be using the dataset to analyze and visualize the following
     
 - Methods: Remotely conducted 3 seperate 10-minute interviews and recorded notes on a word processor. 
 - Script: 
-  - Interview 1: 
-  - Interview 2: 
-  - Interview 3: 
+  - Interview 1 
+
+  Q: How much time did it take you to understand what the visualizations were communicating?
+	A: None. But I look at data like that a lot for work, so may not be the average person?
+	Q: Is there information missing that you wish you saw?
+	A: I’ll think about that – I’m sure!
+	Q: Do you find the visualizations appealing?
+	A: Yes. 
+
+Interview 2 
+
+	Q: How much time did it take you to understand what the visualizations were communicating?
+	A: It differed for each. The ‘Calls by Year’ was the easiest, followed by the ‘Response Time to Call Destination”. ‘Distribution of Violent Call Types’ took me longer because the word ‘distribution’ threw me off. I didn’t understand what it meant. “Percent of Calls by Category” took me the longest. I wasn’t sure what I was looking at in terms of category comparison. It took me a while to figure out the comparisons of both charts. 
+	Q: Is there information missing that you wish you saw?
+	A: I guess I just wish that the “Percent of Calls by Category” were more lined up. I didn’t realize that the words in the middle of the graph were the same call type categories. 
+	Q: Do you find the visualizations appealing?
+	A: Yes. I like the mapping visualizations the best. The Calls by Year gave me the most information the fastest, but the maps painted a complete picture for me. 
+
+Interview 3
+
+	Q: How much time did it take you to understand what the visualizations were communicating?
+	A: 
+	Q: Is there information missing that you wish you saw?
+	A: 
+	Q: Do you find the visualizations appealing?
+	A: 
+
 
 
