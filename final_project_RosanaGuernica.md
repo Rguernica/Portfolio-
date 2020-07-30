@@ -1,5 +1,5 @@
 # Final Project - Part I 
-                                                                                                                      Home Page, Final Project - Part II 
+                                                                                                              Home Page, Final Project - Part II 
 
 ## Introduction and Outline
 
