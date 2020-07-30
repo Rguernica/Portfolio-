@@ -13,5 +13,4 @@ Click below to view my first attempts at storytelling with data!
 ## [Final Project](final_project_RosanaGuernica.md) 
 
 
-# [Resources](resources_Heinz_Goranson.md)
 # Inspiration Board 
