@@ -54,10 +54,13 @@ I'll be using the dataset to analyze and visualize the following
 <a href="https://ibb.co/5sP5qYb"><img src="https://i.ibb.co/h2SKpX3/Storyboard.jpg" alt="Storyboard" border="0"></a>
 
 ### Research and Interviews
-- Target audience: 
-- Goals and Questions:
-- Metrics:
-- Methods: Remotely conducted 3 seperate 15-minute interviews and recorded notes on a word processor. 
+- Target audience: Average civilian concerned about police reform. I approached friends and family who I have discussed the topic with before. 
+- Goals and Questions: 
+    - Intuitiveness -> How much time does it take to understand what the visualizations are communicating?
+    - Completeness -> Is there information missing that you wish you saw?
+    - Perception/Aesthetics -> Do you find the visualizations appealing?
+    
+- Methods: Remotely conducted 3 seperate 10-minute interviews and recorded notes on a word processor. 
 - Script: 
   - Interview 1: 
   - Interview 2: 
