@@ -16,7 +16,7 @@ This project uses the Cincinnati Police Department's Call for Service dataset. T
 
 I'll be using the dataset to analyze and visualize the following 
 
-- The call 'category': Medical, Responsive (incidents not iniated by an officer, such as burglar alarms, distrubances, or assisting other agencies), Non-UCR Crime (incidents that criminal but do not fit the FI's Uniform Crime Report), Proactive (incidents initiative by a police offcier, such as a follow-up investigation or routine patrol), Property Crime, Traffic, and Violent Crime;
+- The call 'category': Medical, Responsive (incidents not iniated by an officer, such as burglar alarms, distrubances, or assisting other agencies), Non-UCR Crime (incidents that criminal but do not fit the FBI's Uniform Crime Report), Proactive (incidents initiative by a police offcier, such as a follow-up investigation or routine patrol), Property Crime, Traffic, and Violent Crime;
 
 - Time spent on calls and time spent on calls by category 
 
@@ -25,6 +25,9 @@ I'll be using the dataset to analyze and visualize the following
 - The geographic distribution of call categories; 
 
 - Call category by time of day, week, month, and year. 
+
+- Average time between intial call, dispatch, and arrival.
+
 
 ## Intial Sketches and Wireframes
 
