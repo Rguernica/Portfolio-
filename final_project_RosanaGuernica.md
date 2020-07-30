@@ -2,7 +2,7 @@
 ## Final Project - Part I
                                                                                                         
 
-## Introduction and Outline
+## Introduction 
 
 With all the current discussion surrounding police reform, I wanted to introduce an aspect of policing that is often overlooked: data. I'm not referring to predictive-policing or investigative analytics but rather data for the purposes of police management, oversight, and reform. You're probably already familiar with the concept, and the importance, of data-driven decision making. One of the problems in police reform is the lack of data. Especially for organizational purposes. 
 
@@ -12,7 +12,7 @@ I'll demonstrate some of these insights on shorthand, using an embedded dashboar
 
 - Story Outline
 
-<a href="https://ibb.co/4fY5t48"><img src="https://i.ibb.co/z570xPX/IMG-2748.jpg" alt="IMG-2748" border="0"></a>
+<a href="https://ibb.co/259vKf5"><img src="https://i.ibb.co/CWcb0TW/IMG-2750.jpg" alt="IMG-2750" border="0"></a>
 
 - Story Arc
 
@@ -38,10 +38,6 @@ I'll be using the dataset to analyze and visualize the following
 - Call category by time of day, week, month, and year;
 
 - Average time between intial call, dispatch, and arrival.
-
-## Story Arc 
-
-## Story Outline
 
 ## Intial Sketches and Wireframes
 
