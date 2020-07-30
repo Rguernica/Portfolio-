@@ -12,9 +12,19 @@ I'll demonstrate some of these insights on shorthand, using an embedded dashboar
 
 ## The Data 
 
-This project uses the Cincinnati Police Department's Call for Service dataset. The data is produced by the City's computer-aided dispatch (CAD) system. CAD systems record police incident response activity, including  
+This project uses the Cincinnati Police Department's Call for Service dataset. This dataset is updated daily and is publicly accessible. It can be acccessed on the [Cincinnati's Police Data Initiatve webpage](https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Police-Calls-for-Servic/gexm-h6bt). 
 
-This dataset is updated daily and is publicly accessible. It can be acccessed on the [Cincinnati's Police Data Initiatve webpage](https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Police-Calls-for-Servic/gexm-h6bt). 
+I'll be using the dataset to analyze and visualize the following 
+
+- The call 'category': Medical, Responsive (incidents not iniated by an officer, such as burglar alarms, distrubances, or assisting other agencies), Non-UCR Crime (incidents that criminal but do not fit the FI's Uniform Crime Report), Proactive (incidents initiative by a police offcier, such as a follow-up investigation or routine patrol), Property Crime, Traffic, and Violent Crime;
+
+-Time spent on calls and time spent on calls by category 
+
+- Call category by disposition (whether the call resulted in an arrest, the towing of a vehicle, if there was no one at the scene when the officers arrived, if it was a false alarm, for example);
+
+- The geographic distribution of call categories; 
+
+- Call category by time of day, week, month, and year. 
 
 ## Intial Sketches and Wireframes
 
