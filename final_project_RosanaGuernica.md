@@ -35,9 +35,8 @@ I'll be using the dataset to analyze and visualize the following
 ## Intial Sketches and Wireframes
 - Storyboard
 
-≈
 
-- Sketches - these are sample sketches of what visualizations will be included in the dashboard. 
+- Sketches - these are sample sketches of what visualizations will be included in the dashboard. A crucial element of the dashboard is that users can customize to the visualizations to their specific needs and interests. I sketched the 'Select Type' and 'Select Time Period' features to highlight this. 
 
 <a href="https://ibb.co/DPFQ6xB"><img src="https://i.ibb.co/WNXfdbr/IMG-2742.jpg" alt="IMG-2742" border="0"></a>
 <a href="https://ibb.co/MZ5BjZM"><img src="https://i.ibb.co/VJpwhJ2/IMG-2744.jpg" alt="IMG-2744" border="0"></a>
@@ -46,7 +45,7 @@ I'll be using the dataset to analyze and visualize the following
 
 ## User Persona Storyboard
 
-<a href="https://ibb.co/9vg0QqN"><img src="https://i.ibb.co/rt0hDZm/IMG-2743.jpg" alt="IMG-2743" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>1 to 9 dice</a><br />
+<a href="https://ibb.co/9vg0QqN"><img src="https://i.ibb.co/rt0hDZm/IMG-2743.jpg" alt="IMG-2743" border="0"></a>
 
 ### Research and Interviews
 - Target audience: 
