@@ -8,6 +8,10 @@ Data can effect real and meaningful change in the world, and for the better. The
 
 # Portfolio-
 See below to view my first attempts at storytelling with data!
+## Workbook Sketches 
+## Visualization Critiques and Redesigns
+## Final Project - Part I 
+## Final Project - Part II 
 ## Data Critique and Redesign: Police Killings 2019 
   **Original Visualization**
 
