@@ -11,9 +11,11 @@ Fortunately, Call For Service (CFS) data is already gathered at most police depa
 I'll demonstrate some of these insights on shorthand, using an embedded dashboard built on Power BI.
 
 - Story Outline
+
 <a href="https://ibb.co/4fY5t48"><img src="https://i.ibb.co/z570xPX/IMG-2748.jpg" alt="IMG-2748" border="0"></a>
 
 - Story Arc
+
 <a href="https://ibb.co/3CCQw6b"><img src="https://i.ibb.co/rwwNg8h/IMG-2749.jpg" alt="IMG-2749" border="0"></a>
 
 ## The Data 
