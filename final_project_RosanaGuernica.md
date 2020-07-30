@@ -63,15 +63,14 @@ I'll be using the dataset to analyze and visualize the following
     
 - Methods: Remotely conducted 3 seperate 10-minute interviews and recorded notes on a word processor. 
 - Script: 
-  - Interview 1 
-
+Interview 1 
   Q: How much time did it take you to understand what the visualizations were communicating?
 	A: None. But I look at data like that a lot for work, so may not be the average person?
 	Q: Is there information missing that you wish you saw?
-	A: I’ll think about that – I’m sure!
+	A: Looks like the first two are by zip code or parts of a city- I would love that for the second two as well.
 	Q: Do you find the visualizations appealing?
-	A: Yes. 
-
+  	A: Yes. 
+  
 Interview 2 
 
 	Q: How much time did it take you to understand what the visualizations were communicating?
@@ -84,11 +83,9 @@ Interview 2
 Interview 3
 
 	Q: How much time did it take you to understand what the visualizations were communicating?
-	A: 
+	A: The most confusing one was the last [% of calls by category]. The heatmaps were dead giveaways. I think the heatmaps are the best way to present the 	information. The last one [% of calls by category] was just too confusing - there must be better ways to present it. 
 	Q: Is there information missing that you wish you saw?
-	A: 
+	A: Not that I can think of. 
 	Q: Do you find the visualizations appealing?
-	A: 
-
-
+	A: Other than the last one [% of calls by category] - yes. 
 
