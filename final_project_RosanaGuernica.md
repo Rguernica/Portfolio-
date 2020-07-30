@@ -8,7 +8,13 @@ With all the current discussion surrounding police reform, I wanted to introduce
 
 Fortunately, Call For Service (CFS) data is already gathered at most police departments across the country. These databases record all calls for service to emergency operatiors, 911, alarms, police radio and non-emergency calls. We can use CFS data as a rich source of information on police activity. This can be tedious since most CFS databses are large, raw, and messy. But it's for precisely those same reasons that we can use it to produce a variety of insights, such as how police officers spend their time, or whether their crime rates are being suppressed. Building effective dashboards that are automatically updated with new data entries can make this information accessible to the general public, supervisors, and city council members. 
 
-I'll demonstrate some of these insights on shorthand, using an embedded dashboard built on Power BI. 
+I'll demonstrate some of these insights on shorthand, using an embedded dashboard built on Power BI.
+
+- Story Outline
+<a href="https://ibb.co/4fY5t48"><img src="https://i.ibb.co/z570xPX/IMG-2748.jpg" alt="IMG-2748" border="0"></a>
+
+- Story Arc
+<a href="https://ibb.co/3CCQw6b"><img src="https://i.ibb.co/rwwNg8h/IMG-2749.jpg" alt="IMG-2749" border="0"></a>
 
 ## The Data 
 
@@ -31,6 +37,9 @@ I'll be using the dataset to analyze and visualize the following
 
 - Average time between intial call, dispatch, and arrival.
 
+## Story Arc 
+
+## Story Outline
 
 ## Intial Sketches and Wireframes
 
@@ -40,7 +49,7 @@ I'll be using the dataset to analyze and visualize the following
 <a href="https://ibb.co/DPFQ6xB"><img src="https://i.ibb.co/WNXfdbr/IMG-2742.jpg" alt="IMG-2742" border="0"></a>
 <a href="https://ibb.co/MZ5BjZM"><img src="https://i.ibb.co/VJpwhJ2/IMG-2744.jpg" alt="IMG-2744" border="0"></a>
 <a href="https://ibb.co/0J0WY2c"><img src="https://i.ibb.co/yszMgPX/IMG-2745.jpg" alt="IMG-2745" border="0"></a>
-<a href="https://ibb.co/9vg0QqN"><img src="https://i.ibb.co/rt0hDZm/IMG-2743.jpg" alt="IMG-2743" border="0"></a>
+<a href="https://ibb.co/SQLNpLg"><img src="https://i.ibb.co/1sSZxSN/IMG-2747.jpg" alt="IMG-2747" border="0"></a>
 
 ## User Persona Storyboard
 
