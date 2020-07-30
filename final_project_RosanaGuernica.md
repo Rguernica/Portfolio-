@@ -4,7 +4,7 @@
 
 ## Introduction and Outline
 
-With all the current discussion surrounding police reform, I wanted to introduce an aspect of policing that is often overlooked: data. Now, I'm not referring to predictive-policing or investigative analytics but rather data for police management, oversight, and reform. You're probably already familiar with the concept, and the importance, of data-driven decision making. One of the problems in police reform is the lack of data. Especially for organizational purposes. 
+With all the current discussion surrounding police reform, I wanted to introduce an aspect of policing that is often overlooked: data. I'm not referring to predictive-policing or investigative analytics but rather data for the purposes of police management, oversight, and reform. You're probably already familiar with the concept, and the importance, of data-driven decision making. One of the problems in police reform is the lack of data. Especially for organizational purposes. 
 
 Fortunately, Call For Service (CFS) data is already gathered at most police departments across the country. These databases record all calls for service to emergency operatiors, 911, alarms, police radio and non-emergency calls. We can use CFS data as a rich source of information on police activity. This can be tedious since most CFS databses are large, raw, and messy. But it's for precisely those same reasons that we can use it to produce a variety of insights, such as how police officers spend their time, or whether their crime rates are being suppressed. Building effective dashboards that are automatically updated with new data entries can make this information accessible to the general public, supervisors, and city council members. 
 
