@@ -27,7 +27,7 @@ I'll be using the dataset to analyze and visualize the following
 
 - The geographic distribution of call categories; 
 
-- Call category by time of day, week, month, and year. 
+- Call category by time of day, week, month, and year;
 
 - Average time between intial call, dispatch, and arrival.
 
