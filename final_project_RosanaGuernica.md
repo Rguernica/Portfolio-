@@ -18,7 +18,7 @@ I'll be using the dataset to analyze and visualize the following
 
 - The call 'category': Medical, Responsive (incidents not iniated by an officer, such as burglar alarms, distrubances, or assisting other agencies), Non-UCR Crime (incidents that criminal but do not fit the FI's Uniform Crime Report), Proactive (incidents initiative by a police offcier, such as a follow-up investigation or routine patrol), Property Crime, Traffic, and Violent Crime;
 
--Time spent on calls and time spent on calls by category 
+- Time spent on calls and time spent on calls by category 
 
 - Call category by disposition (whether the call resulted in an arrest, the towing of a vehicle, if there was no one at the scene when the officers arrived, if it was a false alarm, for example);
 
