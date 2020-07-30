@@ -33,7 +33,6 @@ I'll be using the dataset to analyze and visualize the following
 
 
 ## Intial Sketches and Wireframes
-- Storyboard
 
 
 - Sketches - these are sample sketches of what visualizations will be included in the dashboard. A crucial element of the dashboard is that users can customize to the visualizations to their specific needs and interests. I sketched the 'Select Type' and 'Select Time Period' features to highlight this. 
