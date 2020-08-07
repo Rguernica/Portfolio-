@@ -13,6 +13,6 @@ Click below to view my first attempts at storytelling with data!
 ## [Final Project Page](final_project_Guernica.md)
 ### [Final Project - Part I](final_project_RosanaGuernica.md) 
 ### [Final Project - Part II](final_project_2_RosanaGuernica.md)
-
+### [Final Data Story!!!!](the final [Data Story](https://carnegiemellon.shorthandstories.com/data-driven-police-reform/index.html)
 
 # Inspiration Board 
