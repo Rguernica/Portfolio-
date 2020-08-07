@@ -1,6 +1,6 @@
 # Data-Driven Police Reform (Part I)
 
-View [Part II](final_project_2_RosanaGuernica.md), [Final Page](final_project_Guernica.md), or go back to my [Home Page](README.md)                                                                                                   
+View [Part II](final_project_2_RosanaGuernica.md), [Final Page](final_project_Guernica.md), the final [Data Story](https://carnegiemellon.shorthandstories.com/data-driven-police-reform/index.html), or go back to my [Home Page](README.md)                                                                                                   
 
 ## Introduction 
 
@@ -91,3 +91,4 @@ Interview 3
 	Q: Do you find the visualizations appealing?
 	A: Other than the last one [% of calls by category] - yes. 
 
+View [Part II](final_project_2_RosanaGuernica.md), [Final Page](final_project_Guernica.md), the final [Data Story](https://carnegiemellon.shorthandstories.com/data-driven-police-reform/index.html), or go back to my [Home Page](README.md)  
