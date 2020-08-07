@@ -3,40 +3,40 @@ View [Part I](final_project_RosanaGuernica.md), [Part II](final_project_2_Rosana
 
 ## Introduction 
 
-With all the current discussion surrounding police reform, I wanted to introduce an aspect of policing that is often overlooked: data. I'm not referring to predictive-policing or investigative analytics but rather data for the purposes of police management, oversight, and reform. You're probably already familiar with the concept, and the importance, of data-driven decision making. One of the problems in police reform is the lack of data. Especially for organizational purposes. 
+In the summer of 2020 there were over 6,600 protests across the United States calling for police reform, according to estimates from [REFERENCE HERE].
 
-Fortunately, Call For Service (CFS) data is already gathered at most police departments across the country. These databases record all calls for service to emergency operatiors, 911, alarms, police radio and non-emergency calls. We can use CFS data as a rich source of information on police activity. This can be tedious since most CFS databses are large, raw, and messy. But it's for precisely those same reasons that we can use it to produce a variety of insights, such as how police officers spend their time, or whether their crime rates are being suppressed. Building effective dashboards that are automatically updated with new data entries can make this information accessible to the general public, supervisors, and city council members. 
 
-I'll demonstrate some of these insights on shorthand, using an embedded dashboard built on Power BI.
+All of these protests demanded change. But where do we start? The answer is one not unfamiliar to Heinz students - data! Across the country, police departments have been publicizing their data in order to increase transparency, accountability, and community relations. 
+
+These datasets help both the public and supervisors better understand behaviors and trends. Datasets that track police activity help both supervisors and the public better understand and track behaviors and trends: Use of Force, Searches and Seizures, Calls for Service, Hiring and Promotions. These, and other, datasets help us identify: Discriminatory Policing, Excessive Uses of Force, Resource Needs and Allocations, Discriminatory Hiring and Promotional Practices.
+
+I built a Call for Service dashboard for the Cincinnati Police Department to serve as an example. Call For Service (CFS) data is already gathered at most police departments across the country. These databases record all calls for service to emergency operatiors, 911, alarms, police radio and non-emergency calls. We can use CFS data as a rich source of information on police activity. This can be tedious since most CFS databses are large, raw, and messy. But it's for precisely those same reasons that we can use it to produce a variety of insights, such as how police officers spend their time, or whether their crime rates are being suppressed. Building effective dashboards that are automatically updated with new data entries can make this information accessible to the general public, supervisors, and city council members. 
+
+I'll demonstrate some of these insights on shorthand, using an embedded dashboard built on Tableau.
 
 - Story Outline
 
 <a href="https://ibb.co/259vKf5"><img src="https://i.ibb.co/CWcb0TW/IMG-2750.jpg" alt="IMG-2750" border="0"></a>
 
-- Story Arc
+- Story Arc [NEW STORY ARC]
 
-<a href="https://ibb.co/3CCQw6b"><img src="https://i.ibb.co/rwwNg8h/IMG-2749.jpg" alt="IMG-2749" border="0"></a>
+
 
 ## The Data 
 
-This project uses the Cincinnati Police Department's Call for Service dataset. The department's CFS data is captured by the City of Cincinnati's Computer Aided Dispatch (CAD) system. This system records all calls for service and their dispatch information. Officers who answer a call update the system to reflect on-scene findings. 
+This project uses the Cincinnati Police Department's Call for Service dataset, using specifically their data entries from 2015 - 2018. The department's CFS data is captured by the City of Cincinnati's Computer Aided Dispatch (CAD) system. This system records all calls for service and their dispatch information. Officers who answer a call update the system to reflect on-scene findings. 
 
 This dataset is updated daily and is publicly accessible. It can be acccessed on the [Cincinnati's Police Data Initiatve webpage](https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Police-Calls-for-Servic/gexm-h6bt). In compliance with privacy laws, the dataset has been anonymized and redacted. 
 
 
-I'll be using the dataset to analyze and visualize the following 
+The data set was used to analyze the following: 
 
-- The call 'category': Medical, Responsive (incidents not iniated by an officer, such as burglar alarms, distrubances, or assisting other agencies), Non-UCR Crime (incidents that criminal but do not fit the FBI's Uniform Crime Report), Proactive (incidents initiative by a police offcier, such as a follow-up investigation or routine patrol), Property Crime, Traffic, and Violent Crime;
+- Total number of calls for service, by time of day, day of the week, month, and year. 
 
-- Time spent on calls and time spent on calls by category 
+- Distribution of calls for service across neighborhoods in the City of Cincinnati, Ohio. Neighborhoods were determiend using the [Statistical Neighborhood Approximation (SNA) Boundary](https://data-cagisportal.opendata.arcgis.com/datasets/572561553c9e4d618d2d7939c5261d46_0). This distribution can be further broken down by cumulative years. 
 
-- Call category by disposition (whether the call resulted in an arrest, the towing of a vehicle, if there was no one at the scene when the officers arrived, if it was a false alarm, for example);
+- Total number of calls for service by call category, which can be further filtered by cumulative years. 
 
-- The geographic distribution of call categories; 
-
-- Call category by time of day, week, month, and year;
-
-- Average time between intial call, dispatch, and arrival.
 
 ## Intial Sketches and Wireframes
 
@@ -52,7 +52,7 @@ I'll be using the dataset to analyze and visualize the following
 
 <a href="https://ibb.co/5sP5qYb"><img src="https://i.ibb.co/h2SKpX3/Storyboard.jpg" alt="Storyboard" border="0"></a>
 
-### Research and Interviews
+## User Research Protocol and Findings
 - Target audience: Average civilian concerned about police reform. I approached three individuals who have a diverse set of occupational backgrounds and skills: a social worker, a film editor, and a data scientist. 
 
 - Goals and Questions: 
@@ -89,4 +89,24 @@ Interview 3
 	A: Not that I can think of. 
 	Q: Do you find the visualizations appealing?
 	A: Other than the last one [% of calls by category] - yes. 
+
+- Revisions based on findings: 
+
+
+##Final Data Story
+
+- Intended Audience: 
+
+
+- Design Process: 
+
+
+
+- Check out my final data story [here](https://carnegiemellon.shorthandstories.com/data-driven-police-reform/index.html). 
+
+
+
+
+- References: 
+
 
