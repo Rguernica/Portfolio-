@@ -2,18 +2,11 @@
 View [Part I](final_project_RosanaGuernica.md), [Final Page](final_project_RosanaGuernica.md), or go back to my [Home Page](README.md)
                                                                                                         
 
-## Introduction 
+## Revisions from Part I Feedback
 
 
-## The Data 
-
-
-
-## Intial Sketches and Wireframes
-
-
-## User Persona Storyboard
+## Revisions from a 2nd round of feedback
 
 
 
-### Research and Interviews
+
