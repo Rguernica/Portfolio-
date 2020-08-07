@@ -1,5 +1,5 @@
 # Data-Driven Police Reform (Part II)
-View [Part I](final_project_RosanaGuernica.md), [Final Page](final_project_RosanaGuernica.md), or go back to my [Home Page](README.md)
+View [Part I](final_project_RosanaGuernica.md), [Final Page](final_project_RosanaGuernica.md), the final [Data Story](https://carnegiemellon.shorthandstories.com/data-driven-police-reform/index.html), or go back to my [Home Page](README.md)
                                                                                                         
 
 ## Revisions from Part I Feedback
@@ -20,4 +20,4 @@ For the introduction of this data story I wanted to encapsulate the timeliness o
 <a href="https://ibb.co/MBvsbtB"><img src="https://i.ibb.co/y49XDZ4/Screen-Shot-2020-08-06-at-11-19-42-PM.png" alt="Screen-Shot-2020-08-06-at-11-19-42-PM" border="0"></a>
 
 
-View [Part I](final_project_RosanaGuernica.md), [Final Page](final_project_RosanaGuernica.md), or go back to my [Home Page](README.md)
+View [Part I](final_project_RosanaGuernica.md), [Final Page](final_project_RosanaGuernica.md), the final [Data Story](https://carnegiemellon.shorthandstories.com/data-driven-police-reform/index.html), or go back to my [Home Page](README.md)
