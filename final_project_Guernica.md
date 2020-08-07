@@ -151,3 +151,5 @@ All references used to create this project have been cited throughout this proje
 - [The Stanford Open Policing Project](https://openpolicing.stanford.edu/) 
 
 
+
+View [Part I](final_project_RosanaGuernica.md), [Part II](final_project_2_RosanaGuernica.md) or go back to my [Home Page](README.md)      
