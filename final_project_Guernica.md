@@ -130,7 +130,7 @@ All references used to create this project have been cited throughout this proje
 
 ### Data Sources
 
--[Cincinnati SNA Boundary](https://data-cagisportal.opendata.arcgis.com/datasets/572561553c9e4d618d2d7939c5261d46_0)was used to create the map boundaries included in the dashboard. 
+-[Cincinnati SNA Boundary](https://data-cagisportal.opendata.arcgis.com/datasets/572561553c9e4d618d2d7939c5261d46_0) was used to create the map boundaries included in the dashboard. 
 
 -[Cincinnati PD's Call for Service Data](https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Police-Calls-for-Servic/gexm-h6bt) 
 
