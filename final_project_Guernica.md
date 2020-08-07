@@ -3,7 +3,7 @@ View [Part I](final_project_RosanaGuernica.md), [Part II](final_project_2_Rosana
 
 ## Introduction 
 
-In the summer of 2020 there were over 6,600 protests across the United States calling for police reform, according to estimates from [REFERENCE HERE].
+In the summer of 2020 there were over 6,600 protests across the United States calling for police reform, according to estimates from the [Crowd Counting Consortium](https://sites.google.com/view/crowdcountingconsortium/view-download-the-data?authuser=0). 
 
 
 All of these protests demanded change. But where do we start? The answer is one not unfamiliar to Heinz students - data! Across the country, police departments have been publicizing their data in order to increase transparency, accountability, and community relations. 
@@ -99,6 +99,9 @@ Interview 3
 
 - Intended Audience: 
 
+This presentation was curtailed to provide the general public with an introductory understanding of how data can be used to change in police reform and management decisions. To make my final data story work for this audience, I used straight forward analyses such as calls by category, time, and place, rather than moving averages or forecasts. I also made sure that the visualizations could be understood by people with no formal background in data analysis or visualizations. These decisions were informed by user research interviews. For example, I thought that the visualizations used in the dashboard were self-explanatory. I didn't include a legend for all of them because I thought it was intutive. One of the interviewees asked me what the differences in color meant to check their understanding. After that, I included a legend in the visualizations keeping in mind that not everyone who sees them will have the chance to verify. 
+
+I wanted to make sure that the audience had a concrete understanding of how this data is implementable. The most straightforward changes in police reform come internally. I demonstrated examples of internal data-drive decision making to drive this home.  In the presentation I used the example of how analyzing the total number of calls by time/day/month, as well as geographic distribution, could help inform resource and staff allocation, thus using public funds more efficiently. 
 
 - Design Process: 
 
@@ -116,7 +119,7 @@ All references used to create this project have been cited throughout this proje
 
 -[Cincinnati PD's Call for Service Data](https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Police-Calls-for-Servic/gexm-h6bt) 
 
--[U.S. Protest Data 2020](https://sites.google.com/view/crowdcountingconsortium/view-download-the-data?authuser=0) 
+-[U.S. Protest Data 2020] came from the Crowd(https://sites.google.com/view/crowdcountingconsortium/view-download-the-data?authuser=0) 
 
 ### Images and Media Used on my [shorthand page](https://carnegiemellon.shorthandstories.com/data-driven-police-reform/index.html) 
 
