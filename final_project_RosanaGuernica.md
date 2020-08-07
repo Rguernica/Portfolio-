@@ -1,6 +1,6 @@
 # Data-Driven Police Reform (Part I)
 
-View [Final Project - Part II](final_project_2_RosanaGuernica.md) , or go back to my [Home Page](README.md)                                                                                                   
+View [Part II](final_project_2_RosanaGuernica.md), [Final Page](final_project_RosanaGuernica.md), or go back to my [Home Page](README.md)                                                                                                   
 
 ## Introduction 
 
