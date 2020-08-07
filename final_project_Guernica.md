@@ -104,9 +104,6 @@ Interview 3
 
 - Check out my final data story [here](https://carnegiemellon.shorthandstories.com/data-driven-police-reform/index.html). 
 
-
-
-
 ## References: 
 
 All references used to create this project have been cited throughout this projects write up. I've also created a comprhensive list below for your convenience. 
@@ -119,7 +116,7 @@ All references used to create this project have been cited throughout this proje
 
 -[U.S. Protest Data 2020](https://sites.google.com/view/crowdcountingconsortium/view-download-the-data?authuser=0) 
 
-### Images and Media (used on the [shorthand page](https://carnegiemellon.shorthandstories.com/data-driven-police-reform/index.html). 
+### Images and Media Used on my [shorthand page](https://carnegiemellon.shorthandstories.com/data-driven-police-reform/index.html). 
 
 -The background video clip played on the Shorthand front page was created by [Kelly Lacey](https://www.pexels.com/video/policemen-on-the-street-keeping-public-order-against-protesters-4623605/). 
 	
