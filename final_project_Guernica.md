@@ -134,7 +134,7 @@ All references used to create this project have been cited throughout this proje
 
 -[Cincinnati PD's Call for Service Data](https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Police-Calls-for-Servic/gexm-h6bt) 
 
--[U.S. Protest Data 2020] came from the Crowd(https://sites.google.com/view/crowdcountingconsortium/view-download-the-data?authuser=0) 
+-[U.S. Protest Data 2020 from the Crowd Counting Consortium](https://sites.google.com/view/crowdcountingconsortium/view-download-the-data?authuser=0)
 
 ### Images and Media Used on my [shorthand page](https://carnegiemellon.shorthandstories.com/data-driven-police-reform/index.html) 
 
