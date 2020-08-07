@@ -94,6 +94,7 @@ Interview 3
 
 - Revisions based on findings: 
 
+ I changed my visualizations to more straightforward charts such as heatmaps, bar graphs, and a drop down menu. I also made certain to include axis labels and legends for each visualization. 
 
 ## Final Data Story
 
@@ -104,6 +105,21 @@ This presentation was curtailed to provide the general public with an introducto
 I wanted to make sure that the audience had a concrete understanding of how this data is implementable. The most straightforward changes in police reform come internally. I demonstrated examples of internal data-drive decision making to drive this home.  In the presentation I used the example of how analyzing the total number of calls by time/day/month, as well as geographic distribution, could help inform resource and staff allocation, thus using public funds more efficiently. 
 
 - Design Process: 
+
+I changed my visualizations to more straightforward charts such as heatmaps, bar graphs, and a drop down menu. I also made certain to include axis labels and legends for each visualization. See some of the revised sketches below: 
+
+<a href="https://ibb.co/w0rL2fK"><img src="https://i.ibb.co/X2k4Gqz/Screen-Shot-2020-08-06-at-11-21-42-PM.png" alt="Screen-Shot-2020-08-06-at-11-21-42-PM" border="0"></a>
+
+<a href="https://ibb.co/z88fmB7"><img src="https://i.ibb.co/9wwYp1V/Screen-Shot-2020-08-06-at-11-29-09-PM.png" alt="Screen-Shot-2020-08-06-at-11-29-09-PM" border="0"></a> 
+
+<a href="https://ibb.co/YLTgxPp"><img src="https://i.ibb.co/gRFYxmz/Screen-Shot-2020-08-06-at-11-28-53-PM.png" alt="Screen-Shot-2020-08-06-at-11-28-53-PM" border="0"></a>
+
+
+
+For the introduction of this data story I wanted to encapsulate the timeliness of the topic. I found data on the number of black lives matter and police reform protets that have taken place this summer on the Crownd Counting Consortium. I wanted to include this statistic - 6,600 protets across the U.S. from May - July 2020 - as a visualization. I played around with a few ideas, including a geographical map showing how these protest took place across the country (see below), but decided that it distracted from the real story - which is using data for reform. 
+
+
+<a href="https://ibb.co/MBvsbtB"><img src="https://i.ibb.co/y49XDZ4/Screen-Shot-2020-08-06-at-11-19-42-PM.png" alt="Screen-Shot-2020-08-06-at-11-19-42-PM" border="0"></a>
 
 
 
