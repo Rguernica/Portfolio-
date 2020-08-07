@@ -18,7 +18,9 @@ I'll demonstrate some of these insights on shorthand, using an embedded dashboar
 
 <a href="https://ibb.co/259vKf5"><img src="https://i.ibb.co/CWcb0TW/IMG-2750.jpg" alt="IMG-2750" border="0"></a>
 
-- Story Arc [NEW STORY ARC]
+- Story Arc
+
+<a href="https://ibb.co/3CCQw6b"><img src="https://i.ibb.co/rwwNg8h/IMG-2749.jpg" alt="IMG-2749" border="0"></a>
 
 
 
