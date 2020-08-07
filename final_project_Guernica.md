@@ -107,6 +107,28 @@ Interview 3
 
 
 
-- References: 
+## References: 
+
+All references used to create this project have been cited throughout this projects write up. I've also created a comprhensive list below for your convenience. 
+
+### Data: 
+
+	- [Cincinnati SNA Boundary](https://data-cagisportal.opendata.arcgis.com/datasets/572561553c9e4d618d2d7939c5261d46_0) - Used to create the map boundaries included in the dashboard. 
+	- [Cincinnati PD's Call for Service Data](https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Police-Calls-for-Servic/gexm-h6bt) 
+	- [U.S. Protest Data 2020](https://sites.google.com/view/crowdcountingconsortium/view-download-the-data?authuser=0) 
+
+### Images and Media (used on the [shorthand page](https://carnegiemellon.shorthandstories.com/data-driven-police-reform/index.html). 
+
+	- The background video clip played on the Shorthand front page was created by [Kelly Lacey](https://www.pexels.com/video/policemen-on-the-street-keeping-public-order-against-protesters-4623605/). 
+	
+	- Image 2, "Hollywood Portrait of Protestor in Front of Police" was taken by [Videv](https://www.videvo.net/video/hollywood-portrait-of-protester-in-front-of-police/531468/).
+	
+	- Image 3, "Men Working at Night" was procured via [Pexel](https://www.pexels.com/photo/men-working-at-night-256219/). Photo information notes that no attribution is required. 
+	
+### Links used for Call to Action 
+
+- [Police Data Initiative](https://www.policedatainitiative.org/participating-agencies/)
+- [Mapping Police Violence](https://mappingpoliceviolence.org/)
+- [The Stanford Open Policing Project](https://openpolicing.stanford.edu/) 
 
 
